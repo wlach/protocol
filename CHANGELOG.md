@@ -2,6 +2,8 @@
 
 ## Features
 
+* **component:** New picto component, deprecating the previous picto card (#382)
+* **template:** New multi-column layout container with up to four even columns (#233)
 * **css:** Add horizontal spacing tokens (#345)
 * **css:** Add vertical spacing tokens (#536)
 
